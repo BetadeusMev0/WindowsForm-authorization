@@ -1,0 +1,5 @@
+<users>
+  <user login="test" password="test" />
+  <user login="test2" password="test2" />
+  <user login="qwerty" password="123" />
+</users>
